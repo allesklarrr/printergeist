@@ -51,7 +51,7 @@ def MENU():
         title="ᕕ( ᐛ )ᕗ  ~  P R I N T E R G E I S T  ~  ᕕ( ᐛ )ᕗ",
         text="""
             ----------------------------------------------------------------------
-            Copyright (c) 2025 mvghasty - https://github.com/mvghasty/printergeist
+            Copyright (c) 2025 exzygo - https://github.com/exzygo/printergeist
             LICENSE: GNU General Public License, 2.0
             ----------------------------------------------------------------------
             """,
